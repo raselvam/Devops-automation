@@ -1,4 +1,0 @@
-# Devops-automatio
-
-D
-n
